@@ -7,4 +7,5 @@ a_{ij} = \begin{cases}
 \end{cases}
 $$
 
-这是一个行内公式：$E=mc^2$。
+这是一个行内公式：
+$E=mc^2$
