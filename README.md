@@ -1,4 +1,4 @@
-# Instances Description
+# Instances Description of Independent Quadratic Assignment Problem
 ## Type I
 This class include 9 ``tai-n-a" unstructured, randomly generated instances from *QAPLIB*. Here, the  matrices $A$ and $B$ contain uniformly distributed random integers with $n$ taking values 20, 25, 30, 35, 40, 50, 60, 80, and 100.
 ## Type II
